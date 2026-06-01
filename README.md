@@ -23,10 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vashu4832/Leetcode-Submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
