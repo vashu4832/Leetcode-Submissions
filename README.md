@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0136-single-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
