@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vashu4832/Leetcode-Submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vashu4832/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
