@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -105,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
