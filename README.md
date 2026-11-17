@@ -112,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0704-binary-search) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vashu4832/Leetcode-Submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
